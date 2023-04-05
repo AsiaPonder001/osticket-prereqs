@@ -1,6 +1,6 @@
 # osticket-prereqs
 <p align="center">
-<img src="https:// https://imgur.com/a/VjPCpIH"/>
+<img src= "https://i.imgur.com/cA6hRPV.png"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
@@ -16,6 +16,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
