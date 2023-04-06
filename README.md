@@ -34,7 +34,7 @@ First to install/enable IIS Go to Control Panel > Programs > Turn Windows Featur
 <img src="https://i.imgur.com/0heoYEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INSTALLATION FILES  
+Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INSTALLATION FILES
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Next Download/Install Rewrite Module (rewrite_amd64_en-US.msi) from INSTALLATION
 <img src="https://i.imgur.com/2llks6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INSTALLATION FILES  
+Next Download/Install
 </p>
 <br />
 
@@ -57,6 +57,6 @@ Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INS
 <img src="https://i.imgur.com/9kn33cl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install Rewrite Module (rewrite_amd64_en-US.msi) from INSTALLATION FILES
+Next Download/Install
 </p>
 <br />
