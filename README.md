@@ -50,7 +50,7 @@ Next Download/Install Rewrite Module (rewrite_amd64_en-US.msi) from INSTALLATION
 </p>
 <p>
 Next Create the directory C:\PHP 
- <P>Open File Explorer > This PC > Windows C Drive > Right Click to add NEW FOLDER > name it "PHP"</P>
+ <P>Open File Explorer > This PC > Windows (C:) Drive > Right Click to add NEW FOLDER > name it "PHP"</P>
 </p>
 <br />
 
@@ -58,7 +58,7 @@ Next Create the directory C:\PHP
 <img src="https://i.imgur.com/f9VwzAH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install
+Next unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP From the installation files
 </p>
 <br />
 <p>
