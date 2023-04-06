@@ -46,7 +46,7 @@ Next Download/Install Rewrite Module (rewrite_amd64_en-US.msi) from INSTALLATION
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/2llks6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rEOJqkY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next Download/Install
