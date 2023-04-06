@@ -49,7 +49,8 @@ Next Download/Install Rewrite Module (rewrite_amd64_en-US.msi) from INSTALLATION
 <img src="https://i.imgur.com/rEOJqkY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Create the directory C:\PHP
+Next Create the directory C:\PHP 
+ <P>Open File Explorer > This PC > Windows C Drive > Right Click to add NEW FOLDER > name it "PHP"</P>
 </p>
 <br />
 
