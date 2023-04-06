@@ -24,7 +24,7 @@ In this tutorial we will go through the full installation for osTicket and the p
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-First to install/enable IIS Go to Control Panel > Programs > Turn Windows Features On or OFF > Click and Expand Internet Information Services > click and expand Web Managment Tools > Check IIS Managment Console > Click and expand World Wide Web Services > Click and expand Application Development Features > Check CGI
+First to install/enable IIS Go to Control Panel > Programs > Turn Windows Features On or OFF > Click and Expand Internet Information Services > click and expand Web Managment Tools > Check IIS Managment Console > Click and expand World Wide Web Services > Click and expand Application Development Features > Check CGI > Click OK
 <p>
 
 </p>
