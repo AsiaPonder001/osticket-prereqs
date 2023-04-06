@@ -61,3 +61,26 @@ Next Create the directory C:\PHP
 Next Download/Install
 </p>
 <br />
+<p>
+<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next Download/Install
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next
+ <P> </P>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next Download/Install
+</p>
+<br />
