@@ -101,9 +101,11 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <img src="https://i.imgur.com/eDhTKa2.png"/>
 <img src="https://i.imgur.com/Npu1Q9r.png"/>
 </p>
-<p> NextInstall osTicket v1.15.8 </p>
+<p> Next Install osTicket v1.15.8 and Drag the "UPLOAD" folder into wwwroot folder and right click to rename "UPLOAD" folder to "osTicket" </p>
 <p> 
-<img src="https://i.imgur.com/.png"/>
+<img src="https://i.imgur.com/d8cTobw.png"/>
+ <P> Next open IIS > click RESTART > Sites > Default > osTicket (Double-click) > Browse 80* 
+ </P>
 <img src="https://i.imgur.com/.png"/>
 </p>
 
