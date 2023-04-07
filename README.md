@@ -92,6 +92,6 @@ Next Dowload/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 <img src="https://i.imgur.com/Nr1r1pJ.png"/>
 </p>
 <p>
-Next Download/Install
-</p>
+Next Open IIS as an Admin, register PHP, then restart the server.</p>
+<p> Type IIS in start menu > Click on RUN AS ADMINISTRATOR > Select PHP MANAGER > "Select Register new PHP Version > Click BROWSE > Select PHP CGI (make sure php executable) > ok > Click RESTART </p>
 <br />
