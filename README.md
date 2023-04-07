@@ -83,6 +83,7 @@ Next Dowload/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 <P> Double-click MySQL 5.5.62 > select TYPICAL > Install</P>
  
 <img src="https://i.imgur.com/k1zeOyg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src"https://i.imgur.com/.png"/>
 </p>
 <p>
 Next Download/Install
