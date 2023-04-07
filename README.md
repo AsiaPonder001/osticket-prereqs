@@ -78,7 +78,11 @@ Next Download/Install VC_redist.x86.exe. from the INSTALLATION FILES
 <img src="https://i.imgur.com/4W1slB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Dowload/Install 
+Next Dowload/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+
+<P>Launch Configuration Wizard (after install)</P>
+<P>Standard Configuration</P>
+<P>Password1</P>
  <P> </P>
 </p>
 <br />
