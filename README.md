@@ -70,14 +70,15 @@ Next unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP From the ins
 <img src="https://i.imgur.com/oC4HYF8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install
+Next Download/Install VC_redist.x86.exe. from the INSTALLATION FILES
 </p>
+<P> Double-click and Install</P>
 <br />
 <p>
-<img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4W1slB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next
+Next Dowload/Install 
  <P> </P>
 </p>
 <br />
