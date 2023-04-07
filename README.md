@@ -65,9 +65,9 @@ Next unzip PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) into C:\PHP From the ins
 <p>
 <img src="https://i.imgur.com/FEmn7wh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
- <img src="https://i.imgur.com/.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/Rk2nAjp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<img src="https://i.imgur.com/ .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oC4HYF8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next Download/Install
