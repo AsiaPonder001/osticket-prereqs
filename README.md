@@ -100,5 +100,5 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <img src="https://i.imgur.com/2a5ZQ5X.png"/>
 <img src="https://i.imgur.com/eDhTKa2.png"/>
 <img src="https://i.imgur.com/Npu1Q9r.png"/>
-
+</p>
 <br />
