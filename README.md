@@ -80,11 +80,16 @@ Next Download/Install VC_redist.x86.exe. from the INSTALLATION FILES
 <p>
 Next Dowload/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
-<P> Double-click MySQL 5.5.62 > select TYPICAL > Install</P>
+<P> Double-click > Click I agree" > Select TYPICAL > INSTALL </P>
+<P> Launch Configuration Wizard (after install) </P>
+ <p> Select STANDARD CONFIGURATION > Select INSTALL AS WINDOWS SERVICE (make sure Lauch the sql...is checked) > Root will be your username create a password. example: </p>
+ <p>Username: ROOT</p>
+ <p>Password: Password1 </p>
+ 
  
 <img src="https://i.imgur.com/Z2UPFwz.png"/>
 <img src="https://i.imgur.com/aKCqWMI.png"/>
-<img src="https://i.imgur.com/ .png"/>
+<img src="https://i.imgur.com/Nr1r1pJ.png"/>
 </p>
 <p>
 Next Download/Install
