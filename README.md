@@ -101,7 +101,6 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <img src="https://i.imgur.com/eDhTKa2.png"/>
 <img src="https://i.imgur.com/Npu1Q9r.png"/>
 </p>
-<br />
 <p> NextInstall osTicket v1.15.8 </p>
 <p> 
 <img src="https://i.imgur.com/.png"/>
