@@ -128,6 +128,7 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> Right click on ost-config.php > click on PROPERTIES > click on SECURITY > click on ADVANCED > Click on DISABLE INHERITANCE</p>
 <P> WINDOW WILL POP-UP, make sure to select REMOVE ALL PERMISSIONS > Click SELECT A PRINCIPAL > Type: EVERYONE > Click CHECK NAMES > Click Ok</P>
 <img src="https://i.imgur.com/7M23ZPY.png"/>
+<p> Check FULL CONTROL > Click Ok > </p>
 <p> Back to the osTicket webpage and click CONTINUE at the bottom. You have successfully installed osTicket now fill in HELP DESK information </p>
 <img src="https://i.imgur.com/YfNoAYG.png"/>
 <p> *Remember when filling out info that we already created a password and database for mysql and the username will always be root* </p>
