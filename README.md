@@ -124,7 +124,14 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> Next rename ost-sampleconfig.php to ost-config.php </p>
 <p> WINDOWS (C:) DRIVE > inetpub > wwwroot > osTicket > include > Right click on ost-sampleconfig.php and rename it to ost-config.php</p>
 <img src="https://i.imgur.com/WpV0rsX.png"/>
-<img src="https://i.imgur.com/6m7dOUG.png"/>
-
-<p>    </p>
-
+<p> Next assign permissions </p>
+<p> Right click on ost-config.php > click on PROPERTIES > click on SECURITY > click on ADVANCED > Click on DISABLE INHERITANCE</p>
+<P> WINDOW WILL POP-UP, make sure to select REMOVE ALL PERMISSIONS > Click SELECT A PRINCIPAL > Type: EVERYONE > Click CHECK NAMES > Click Ok</P>
+<img src="https://i.imgur.com/   .png"/>
+<p> Back to the osTicket webpage and click CONTINUE at the bottom. You have successfully installed osTicket but one final step left.  </p>
+<img src="https://i.imgur.com/   .png"/>
+<p> CLEAN UP (change permissions back)</p>
+<p> Windows (C:) Drive > wwwroot > osTicket > Include > scroll down to find ost-config.php and Right click on Properties > Click SECURITY > ADVANCED > Click on EVERYONE > EDIT to only READ AND execute > Click Ok > APPLY </p>
+<img src="https://i.imgur.com/   .png"/>
+<P> Log into osTicket</P>
+<img src="https://i.imgur.com/   .png"/>
