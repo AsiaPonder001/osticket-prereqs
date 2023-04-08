@@ -124,6 +124,7 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> Next rename ost-sampleconfig.php to ost-config.php </p>
 <p> WINDOWS (C:) DRIVE > inetpub > wwwroot > osTicket > include > Right click on ost-sampleconfig.php and rename it to ost-config.php</p>
 <img src="https://i.imgur.com/WpV0rsX.png"/>
+<img src="https://i.imgur.com/6m7dOUG.png"/>
+
 <p>    </p>
-<img src="https://i.imgur.com/.png"/>
 
