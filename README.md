@@ -112,11 +112,15 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p>Php_imap.dil</p>
 <p>Php_intl.dil</p> 
 <p>Php_opache.dil</p>
-<p>click enable extensions</p>
+<p>click enable extensions and Restart the server</p>
 <img src="https://i.imgur.com/dojaWPV.png"/>
 <img src="https://i.imgur.com/hZRYdkY.png"/>
-<p> </p>
-<img src="https://i.imgur.com/.png"/>
-<img src="https://i.imgur.com/.png"/>
+<p> Before you continue on osTicket go back to the Downloads folder and INSTALL HeidiSQL</p>
+<p> After installing HeidiSQL will launch. Click NEW > Enter password created for mysql example: Password1 > Click OPEN > Right Click on UNNAMED > Create New > Database (name it osTicket) > Click Ok</p>
+<img src="https://i.imgur.com/RJs8RZ6.png"/>
+<img src="https://i.imgur.com/DMHSshw.png"/>
+<img src="https://i.imgur.com/plHNmKg.png"/>
 </p>
+<img src="https://i.imgur.com/.png"/>
+<img src="https://i.imgur.com/.png"/>
 
