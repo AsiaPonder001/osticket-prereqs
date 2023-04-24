@@ -113,6 +113,8 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p>Php_intl.dil</p> 
 <p>Php_opache.dil</p>
 <p>click enable extensions and Restart the server</p>
+<img src="https://i.imgur.com/RI1sFNo.png"/>
+<img src="https://i.imgur.com/xlDb0QQ.png"/>
 <img src="https://i.imgur.com/dojaWPV.png"/>
 <img src="https://i.imgur.com/hZRYdkY.png"/>
 <p> Before you continue on osTicket go back to the Downloads folder and INSTALL HeidiSQL</p>
