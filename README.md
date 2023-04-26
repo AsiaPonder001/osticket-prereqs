@@ -136,8 +136,8 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> *FILL OUT HELP DESK INFO and REMEBER when filling out that we already created a password and database for mysql and "root" will always be the username* </p>
 <img src="https://i.imgur.com/ram5yeU.png"/>
 <p> One final step is CLEAN UP ( Delete setup and change permissions back to read only )</p>
-<p><h2> To delete setup folder go to: Delete: C:\inetpub\wwwroot\osTicket\setup <h2/></p>
-<p><h2> to change permissions go go to: Windows (C:) Drive > wwwroot > osTicket > Include > scroll down to find ost-config.php and Right click on Properties > Click SECURITY > ADVANCED > Click on EVERYONE > EDIT to only READ and EXECUTE > Click Ok > APPLY <h2/> </p>
+<p><h2> To delete setup folder go to: Delete: C:\inetpub\wwwroot\osTicket\setup <h2/>
+<p><h2> To change permissions go go to: Windows (C:) Drive > wwwroot > osTicket > Include > scroll down to find ost-config.php and Right click on Properties > Click SECURITY > ADVANCED > Click on EVERYONE > EDIT to only READ and EXECUTE > Click Ok > APPLY <h2/> </p>
 <P> Log into osTicket</P>
 <img src="https://i.imgur.com/MOz6Mid.png"/>
 <img src="https://i.imgur.com/Qw9ayD5.png"/>
