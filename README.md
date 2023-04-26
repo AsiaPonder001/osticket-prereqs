@@ -131,6 +131,8 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> Check FULL CONTROL > Click Ok > </p>
 <p> Back to the osTicket webpage and click CONTINUE at the bottom. You have successfully installed osTicket now fill in HELP DESK information </p>
 <img src="https://i.imgur.com/YfNoAYG.png"/>
+<img src="https://i.imgur.com/5aYEp3c.png"/>
+<img src="https://i.imgur.com/6jfbXGw.png"/>
 <p> *Remember when filling out info that we already created a password and database for mysql and the username will always be root* </p>
 <img src="https://i.imgur.com/ram5yeU.png"/>
 <p> One final step is CLEAN UP (change permissions back)</p>
