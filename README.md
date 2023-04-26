@@ -103,7 +103,7 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 </p>
 <p> Next Install osTicket v1.15.8 and Drag the "UPLOAD" folder into wwwroot folder and right click to rename "UPLOAD" folder to "osTicket" </p>
 <img src="https://i.imgur.com/d8cTobw.png"/>
-<img src="https://i.imgur.com/USYII3l.png"/>
+<img src="https://i.imgur.com/r6eVgAB.png"/>
  <P> Next open IIS > click RESTART > Sites > Default > osTicket (Double-click) > Browse 80* </p>
 <p> you should make it to the osTicket webpage; if so you did it correctly. If not check all your steps or restart the tutorial. </P>
 <p> NOTE: some php extensions are disabled (with red X) to enable php extensions go back to IIS > Sites > Default Web Site > osTicket > php manager (double-click)> Click on PHP extensions. Scroll down list to find: </p>
