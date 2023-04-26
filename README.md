@@ -125,7 +125,7 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <p> Next rename ost-sampleconfig.php to ost-config.php </p>
 <p> WINDOWS (C:) DRIVE > inetpub > wwwroot > osTicket > include > Right click on ost-sampleconfig.php and rename it to ost-config.php</p>
 <img src="https://i.imgur.com/WpV0rsX.png"/>
-<p> Next assign permissions </p>
+<p><h2>Next assign permissions<h2/> </p>
 <p> Right click on ost-config.php > click on PROPERTIES > click on SECURITY > click on ADVANCED > Click on DISABLE INHERITANCE</p>
 <P> WINDOW WILL POP-UP, make sure to select REMOVE ALL PERMISSIONS > Click SELECT A PRINCIPAL > Type: EVERYONE > Click CHECK NAMES > Click Ok</P>
 <img src="https://i.imgur.com/7M23ZPY.png"/>
