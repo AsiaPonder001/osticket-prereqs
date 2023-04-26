@@ -82,7 +82,7 @@ Next Dowload/Install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
 
 <P> Double-click > Click I "agree" > Select TYPICAL > INSTALL </P>
 <P> Launch Configuration Wizard (after install) </P>
- <p> Select STANDARD CONFIGURATION > Select INSTALL AS WINDOWS SERVICE (make sure "Launch my sql server"...is checked) > Root will be your username create a password. example: </p>
+ <p> Select STANDARD CONFIGURATION > Select INSTALL AS WINDOWS SERVICE (make sure "Launch my sql server..."is checked) > Root will be your username create a password. example: </p>
  <p>Username: ROOT</p>
  <p>Password: Password1 </p>
  
