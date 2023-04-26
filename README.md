@@ -133,7 +133,7 @@ Next Open IIS as an Admin, register PHP, then restart the server.</p>
 <img src="https://i.imgur.com/5aYEp3c.png"/>
 <p> Back to the osTicket webpage and click CONTINUE at the bottom. You have successfully installed osTicket now fill in HELP DESK information </p>
 <img src="https://i.imgur.com/6jfbXGw.png"/>
-<p> *Remember when filling out info that we already created a password and database for mysql and the username will always be root* </p>
+<p> *FILL OUT HELP DESK INFO and REMEBER when filling out that we already created a password and database for mysql and "root" will always be the username* </p>
 <img src="https://i.imgur.com/ram5yeU.png"/>
 <p> One final step is CLEAN UP (change permissions back)</p>
 <p> Windows (C:) Drive > wwwroot > osTicket > Include > scroll down to find ost-config.php and Right click on Properties > Click SECURITY > ADVANCED > Click on EVERYONE > EDIT to only READ and EXECUTE > Click Ok > APPLY </p>
