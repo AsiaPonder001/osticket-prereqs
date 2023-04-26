@@ -24,7 +24,7 @@ In this tutorial we will go through the full installation for osTicket and the p
 - Windows 10</b> (21H2)
 
 <h2>Installation Steps</h2>
-First to install/enable IIS Go to Control Panel > Programs > Turn Windows Features On or OFF > Click and Expand Internet Information Services > click and expand Web Managment Tools > Check IIS Managment Console > Click and expand World Wide Web Services > Click and expand Application Development Features > Check CGI > Click OK
+<h2>First to install/enable IIS Go to Control Panel > Programs > Turn Windows Features On or OFF > Click and Expand Internet Information Services > click and expand Web Managment Tools > Check IIS Managment Console > Click and expand World Wide Web Services > Click and expand Application Development Features > Check CGI > Click OK<h2/>
 <p>
 
 </p>
@@ -34,7 +34,7 @@ First to install/enable IIS Go to Control Panel > Programs > Turn Windows Featur
 <img src="https://i.imgur.com/0heoYEy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INSTALLATION FILES
+<h>Next Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from INSTALLATION FILES<h2/>
 </p>
 <br />
 
